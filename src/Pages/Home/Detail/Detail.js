@@ -12,7 +12,7 @@ const Detail = (props) => {
     const [detail,setDetail] = useState([]) 
     
     useEffect(()=>{
-        const url = `http://localhost:5000/foods`
+        const url = `https://dark-fangs-46754.herokuapp.com/foods`
         fetch(url)
         .then(res => res.json())
         .then(data => setDetail(data))

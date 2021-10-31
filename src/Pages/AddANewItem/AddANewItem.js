@@ -10,7 +10,7 @@ const AddANewItem = () => {
         
         console.log(data)
 
-        axios.post('http://localhost:5000/foods' , data )
+        axios.post('https://dark-fangs-46754.herokuapp.com/foods' , data )
         .then(res => {
             if(res.data.insertedId){
                 alert('Item added successfully')

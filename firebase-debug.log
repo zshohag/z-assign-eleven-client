@@ -1,0 +1,13 @@
+[debug] [2021-10-31T15:20:56.304Z] ----------------------------------------------------------------------
+[debug] [2021-10-31T15:20:56.311Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-10-31T15:20:56.311Z] CLI Version:   9.21.0
+[debug] [2021-10-31T15:20:56.312Z] Platform:      win32
+[debug] [2021-10-31T15:20:56.312Z] Node Version:  v14.17.1
+[debug] [2021-10-31T15:20:56.320Z] Time:          Sun Oct 31 2021 21:20:56 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-10-31T15:20:56.321Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-31T15:20:56.636Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-31T15:20:56.637Z] > authorizing via signed-in user (zds.mee@gmail.com)
+[debug] [2021-10-31T15:20:56.637Z] [iam] checking project z-assign for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-10-31T15:20:56.649Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/z-assign:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
