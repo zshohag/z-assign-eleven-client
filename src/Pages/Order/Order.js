@@ -12,7 +12,7 @@ const Order = () => {
    
     const [ order,setOrder]  = useState({})
     useEffect(()=>{
-        fetch(`http://localhost:5000/foods/${detailId}`)
+        fetch(`https://dark-fangs-46754.herokuapp.com/foods/${detailId}`)
         .then(res => res.json())
         .then(data => setOrder(data))
         },[detailId])
@@ -29,7 +29,7 @@ const Order = () => {
             data.productDescription = order.description
            
 
-            fetch('http://localhost:5000/order',{
+            fetch('https://dark-fangs-46754.herokuapp.com/order',{
         
              method:"POST",
              headers: {
