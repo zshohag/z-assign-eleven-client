@@ -1,0 +1,8 @@
+.error {
+    font-size :150px;
+}
+
+.error_message {
+    letter-spacing: 2px;
+    font-family: 'Raleway', sans-serif;
+}

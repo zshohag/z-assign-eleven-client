@@ -1,0 +1,40 @@
+a {
+    color: white;
+}
+.nav {
+    color: white;
+    font-size: 24px;
+}
+
+
+.nav-link:focus, .nav-link:hover {
+   color: white; 
+}
+
+.text a {
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.text a:hover {
+     
+    color: black;
+    background-color: white;
+}
+
+button.btn.btn-dark:hover {
+    background-color: cadetblue;
+}
+
+a.text-white.bg-dark.nav-link {
+    background-color: cadetblue !important;
+}
+
+span.ms-1.navbar-text {
+    color: cadetblue;
+}
+
+

@@ -1,0 +1,86 @@
+[
+    {  
+      
+      "name": "Fried Egg & Sausage",
+      "image": "https://i.ibb.co/pRKQb6r/shop-1.jpg",
+      "price":23,
+      "description": "A fried egg is a cooked dish made from one or more eggs which are removed from their shells and placed into a frying pan and fried with minimal accompaniment."
+    },
+    {  
+     
+      "name": "Creamed Chipped Beef",
+      "image": "https://i.ibb.co/dQZj9RT/shop-6.jpg",
+      "price":53,
+      "description": "Creamed Chipped Beef is a dish comprised of chopped dried beef in a creamy luscious lightly seasoned white sauce. The cream sauce is usually a béchamel."
+    },
+    {
+    
+      "name": "Crispy Chicken Wings",
+      "image": "https://i.ibb.co/t88Rmq7/shop-9.jpg",
+      "price":84,
+      "description": "Place the wings on a cooking rack in a sheet pan. This lets air circulate all around the chicken pieces so that they get evenly crisp. It also lets the fat drip away from the chicken."
+    },
+    {
+     
+      "name": "Fish With Chips",
+      "image": "https://i.ibb.co/nBg0BYL/shop-12.jpg",
+      "price":38,
+      "description": "Haddock is the fish that most chefs prefer for fish and chips. The texture isn't as flaky or tender as cod but the meat has more flavor. Haddock has a slight sweetness ."
+    },
+    {
+     
+      "name": "Chicken Popcorn",
+      "image": "https://i.ibb.co/BjMFFFG/shop-13.jpg",
+      "price":43,
+      "description": "Popcorn chicken is an American dish consisting of tiny, bite-sized pieces of chicken that have been breaded or battered and deep-fried."
+    },
+    {
+     
+      "name": "Risotto",
+      "image": "https://i.ibb.co/tpVghqq/shop-14.jpg",
+      "price":45,
+      "description": "A classic risotto is a rich, creamy dish with nearly a porridge-like consistency, yet each grain of rice retains a distinct bite. In Italian risotto, the rice is parched ."
+    },
+    {
+      
+      "name": "Penne Alla Vodka",
+      "image": "https://i.ibb.co/kmyVgMr/shop-15.jpg",
+      "price":50,
+      "description": "Penne alla vodka is a pasta dish made with vodka and penne pasta, usually made with heavy cream, crushed tomatoes, onions, and sometimes sausage, pancetta."
+    },
+    {
+     
+      "name": "Carbonara",
+      "image": "https://i.ibb.co/tLpzLxH/shop-16.jpg",
+      "price":89,
+      "description": "Carbonara (Italian: [karboˈnaːra]) is an Italian pasta dish from Rome made with eggs, hard cheese, cured pork, and black pepper. The cheese is usually Pecoriid Romaid."
+    },
+    {
+     
+      "name": "Spaghetti Aglio",
+      "image": "https://i.ibb.co/rQLNrp8/shop-20.jpg",
+      "price":120,
+      "description": "Aglio e Olio literally means olive oil and garlic in Italian. It is a traditional pasta recipe from Naples.This dish is made by sautéing sliced garlic in olive oil."
+    },
+    {
+   
+      "name": "Garlic Prime Rib",
+      "image": "https://i.ibb.co/NKgJMSc/shop-18.jpg",
+      "price":99,
+      "description": "That's the name you'll see at the butcher counter. The standing rib roast unsurprisingly comes from the rib section of the cow."
+    },
+    {
+     
+      "name": "Creamy Salad",
+      "image": "https://i.ibb.co/6FWkVXg/shop-19.jpg",
+      "price":57,
+      "description": "The key to keeping creamy salad from drying out is the pasta. If you don't cook it eidugh, the pasta won't grab on to the dressing ."
+    },
+    {
+    
+      "name": "Thai Yum Soup",
+      "image": "https://i.ibb.co/qCDp3g0/shop-21.jpg",
+      "price":36,
+      "description": "Tom Yum Soup is the most popular soup in Thailand – for a reason. It's bold yet light, tart, salty and citrusy, bursting with layer."
+    }
+  ]
